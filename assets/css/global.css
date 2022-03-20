@@ -1,0 +1,30 @@
+ul{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+p{
+    margin-bottom: 0;
+}
+.d-flex{
+    display: flex;
+}
+.d-flex-c{
+    display: flex;
+    flex-direction: column;
+}
+.d-flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.justify-content-sp_between
+{
+  justify-content: space-between;  
+}
+.img-cover{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
